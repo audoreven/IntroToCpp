@@ -1,0 +1,3 @@
+﻿  annoying_problem.cpp
+C:\Users\Audrey\source\repos\IntroToC++\IntroToC++\annoying_problem.cpp(245,14): warning C4129: 'y': unrecognized character escape sequence
+  IntroToC++.vcxproj -> C:\Users\Audrey\source\repos\IntroToC++\Debug\IntroToC++.exe

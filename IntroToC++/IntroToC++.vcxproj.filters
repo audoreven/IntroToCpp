@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Labs">
+      <UniqueIdentifier>{ce212aca-66e7-40fd-bfd7-671208ed55b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Exercises">
+      <UniqueIdentifier>{e92f99c0-a07e-40f7-8144-e23a234b3db0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Demos">
+      <UniqueIdentifier>{d8794d26-8e7d-4dac-ae73-c6defe237ec3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hello_world.cpp">
+      <Filter>Source Files\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="bool_demo.cpp">
+      <Filter>Source Files\Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="char_demo.cpp">
+      <Filter>Source Files\Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="constant_demo.cpp">
+      <Filter>Source Files\Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="circle_area.cpp">
+      <Filter>Source Files\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="rectangle.cpp">
+      <Filter>Source Files\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="data_type.cpp">
+      <Filter>Source Files\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="getline_demo.cpp">
+      <Filter>Source Files\Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab3.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="lab0.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="lab1.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="lab2.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="lab4.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="lab5.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="lab6.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="randomnum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab7.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="account_virtual.cpp">
+      <Filter>Source Files\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="complex_numbers.cpp">
+      <Filter>Source Files\Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="ComplexTest.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_of_obj.cpp">
+      <Filter>Source Files\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="Complex.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="BirthdayProblem.cpp">
+      <Filter>Source Files\Labs</Filter>
+    </ClCompile>
+    <ClCompile Include="one_billion_seconds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="annoying_problem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="lab6.txt">
+      <Filter>Source Files\Labs</Filter>
+    </Text>
+    <Text Include="HR.txt">
+      <Filter>Source Files\Labs</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Complex.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
